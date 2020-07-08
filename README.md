@@ -1,3 +1,4 @@
+## ( deprecated: last version was 'release-v2.3.0' )
 # Mesh Demo Examples
 
 This application group demonstrates implementation of BLE Mesh Models. Applications included are:
